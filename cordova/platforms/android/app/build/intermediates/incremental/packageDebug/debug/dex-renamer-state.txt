@@ -1,0 +1,4 @@
+#Tue Oct 09 12:39:15 CEST 2018
+base.0=C\:\\Users\\pspahn\\Downloads\\werwolf_angular\\hello\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
